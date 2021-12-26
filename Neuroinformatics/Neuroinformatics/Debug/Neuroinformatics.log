@@ -1,0 +1,3 @@
+﻿  ner7.cpp
+C:\Users\Gorets\source\repos\Neuroinformatics\Neuroinformatics\ner7.cpp(64,43): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Neuroinformatics.vcxproj -> C:\Users\Gorets\source\repos\Neuroinformatics\Debug\Neuroinformatics.exe
